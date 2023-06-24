@@ -4,79 +4,33 @@
 
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML.</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on BMI Calculator <br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Development<br>💬 Ask me about Data Structures & Algorithm<br>👨‍💻 All of my projects are available at https://github.com/harishngt<br>📫 How to reach me hk21062004@gmail.com, gg9603@srmist.edu.in<br>
 
+# 💫 About Me:
+🔭 I’m currently working on BMI Calculator<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Development<br>💬 Ask me about Data Structures & Algorithm<br>👨‍💻 All of my projects are available at https://github.com/harishngt<br>📫 How to reach me hk21062004@gmail.com, gg9603@srmist.edu.in
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haengbok._harish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-ganesan) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white). ![Flutter](https://img.shields.io/badge/flutter-%1300f.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-# 🔗 Connect with Me: 
-
-<p align="left">
-<a href="https://linkedin.com/in/sai rishyanth visinigiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai rishyanth visinigiri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srmist_0258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmist_0258" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishy_280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishy_280" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sr2609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sr2609" height="30" width="40" /></a>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vRishy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vRishy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vRishy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=harishngt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harishngt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishngt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vRishy&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harishngt&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vRishy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=harishngt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vRishy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
--------
-<!-- <img src="https://user-images.githubusercontent.com/66677354/225420792-71098672-a76b-4275-93d7-83f151bb67e6.gif" width="1200" height="400"  />
-
-<!-- <h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Sai Rishyanth Visinigiri</h1>
-
-<h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishy&label=Profile%20views&color=0e75b6&style=flat" alt="vrishy" /> </p>
-
-- 🔭 I’m currently working on [Smart Parking System in SRM Campus](https://github.com/vRishy/Smart-Parking-System-in-SRM-Campus)
-
-- 🌱 I’m currently learning **Machine Learning & Full Stack Development**
-
-- 👯 I’m looking to collaborate on [Rock-Paper-Scissors Game](https://github.com/Kavya-reddy-vutukuri/Rock-Paper-Scissiors-Game) -->
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/vRishy](https://github.com/vRishy)
-
-- 📫 How to reach me **visinigiririshyanth@gmail.com, sr2609@srmist.edu.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ar8K4REmpQosTdpZWRE3Qnvj2Hg6CU4T/view?usp=share_link](https://drive.google.com/file/d/1Ar8K4REmpQosTdpZWRE3Qnvj2Hg6CU4T/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai rishyanth visinigiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai rishyanth visinigiri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srmist_0258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmist_0258" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishy_280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishy_280" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sr2609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sr2609" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"&theme=radical> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrishy&show_icons=true&locale=en&layout=compact&theme=radical" alt="vrishy"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrishy&show_icons=true&locale=en&theme=radical" alt="vrishy"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrishy&theme=radical" alt="vrishy"/></p>
-
- --> -->
+[![](https://visitcount.itsvg.in/api?id=harishngt&icon=0&color=10)](https://visitcount.itsvg.in)
