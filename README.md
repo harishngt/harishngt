@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Harish</h1>
 
-<h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML.</h3>
+<h3 align="center">A Third-year Computer Science Engineering Student with a Passion for AI&ML.</h3>
 
 
 # 💫 About Me:
-🔭 I’m currently working on BMI Calculator<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Development<br>💬 Ask me about Data Structures & Algorithm<br>👨‍💻 All of my projects are available at https://github.com/harishngt<br>📫 How to reach me hk21062004@gmail.com, gg9603@srmist.edu.in
+🔭 I’m currently working on BMI Calculator<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Development<br>👨‍💻 All of my projects are available at https://github.com/harishngt<br>📫 How to reach me hk21062004@gmail.com, gg9603@srmist.edu.in
 
 
 ## 🌐 Socials:
