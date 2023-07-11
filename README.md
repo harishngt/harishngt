@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on BMI Calculator<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Development<br>👨‍💻 All of my projects are available at https://github.com/harishngt<br>📫 How to reach me hk21062004@gmail.com, gg9603@srmist.edu.in
+🔭 I’m currently working on Temperature Converter Application<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning App Development<br>👨‍💻 All of my projects are available at https://github.com/harishngt<br>📫 How to reach me hk21062004@gmail.com, gg9603@srmist.edu.in
 
 
 ## 🌐 Socials:
