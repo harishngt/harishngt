@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Business Card Application](https://github.com/harishngt/Business-Card-App)<br>👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Flutter App Development<br>👨‍💻 All of my projects are available at [GitHub](https://github.com/harishngt)<br>📫 How to reach me [Personal MailID](hk21062004@gmail.com), [Student MailID](gg9603@srmist.edu.in).
+👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Flutter App Development<br>👨‍💻 All of my projects are available at [GitHub](https://github.com/harishngt)<br>📫 How to reach me [Personal MailID](hk21062004@gmail.com), [Student MailID](gg9603@srmist.edu.in).
 
 
 ## 🌐 Socials:
