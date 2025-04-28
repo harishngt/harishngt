@@ -2,11 +2,11 @@
 
 <h1 align="center">Hey! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Harish</h1>
 
-<h3 align="center">A Third-year Computer Science Engineering Student with a Passion for AI and ML </h3>
+<h3 align="center">A Final-Year Computer Science Engineering Student with a Passion for AI and ML </h3>
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Flutter App Development<br>👨‍💻 All of my projects are available at [GitHub](https://github.com/harishngt)<br>📫 How to reach me [Personal MailID](hk21062004@gmail.com), [Student MailID](gg9603@srmist.edu.in).
+👯 I’m looking to collaborate on projects related to AI & ML<br>🤝 I’m looking for help with Machine Learning<br>👨‍💻 All of my projects are available at [GitHub](https://github.com/harishngt)<br>📫 How to reach me [Personal MailID](hk21062004@gmail.com), [Student MailID](gg9603@srmist.edu.in).
 
 
 ## 🌐 Socials:
